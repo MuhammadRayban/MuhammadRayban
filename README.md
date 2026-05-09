@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 # 💫 About Me:
 I’m a passionate Computer Science student, with a strong interest in modern web development, artificial intelligence, and machine learning. I enjoy transforming ideas into real-world solutions and continuously push myself to grow as a developer and problem-solver.<br>Driven by curiosity and continuous learning, I explore emerging technologies, strengthen core computer science skills, and adapt to the ever-evolving tech landscape.
 
@@ -14,7 +13,4 @@ I’m a passionate Computer Science student, with a strong interest in modern we
 ![](https://streak-stats.demolab.com/?user=MuhammadRayban&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadRayban&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=MuhammadRayban&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
